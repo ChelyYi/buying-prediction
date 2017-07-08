@@ -1,4 +1,4 @@
-##buying-prediction##
+# buying-prediction
 
 Reference：
 
